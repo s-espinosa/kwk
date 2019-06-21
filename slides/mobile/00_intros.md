@@ -1,10 +1,9 @@
 # KwK Teacher Training: Mobile
 
-Please sit in these pairs:
+Please sit in these groups:
 
 * Abbey & Matt
-* Cheyenne & Kristina
-* Ashanti & Mark
+* Ashanti & Mark & Kristina
 
 WiFi: turing
 Password: complete
