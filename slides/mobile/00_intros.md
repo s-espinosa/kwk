@@ -13,12 +13,13 @@ Password: complete
 
 # Overview
 
-* Intros
-* Git/GitHub
-* Show & Tell
-* Annotting Code
-* Unwrapping Optionals
-* Wrap Up
+* 2:15 - Intros
+* 2:30 - Git/GitHub
+* 3:00 - Pom
+* 3:05 - Show & Tell
+* 3:25 - Annotting Code
+* 4:00 - Unwrapping Optionals
+* 4:30 - Wrap Up
 
 ---
 
