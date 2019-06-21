@@ -27,6 +27,6 @@ Password: complete
 
 * Name
 * Pronouns (optional)
-* What candy represents you?
-* Favorite thing about iOS development so far?
+* Hometown
+* What does a successful camp experience look like to you?
 
