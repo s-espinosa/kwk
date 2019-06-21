@@ -26,6 +26,4 @@ Password: complete
 
 * Name
 * Pronouns (optional)
-* Hometown
 * What does a successful camp experience look like to you?
-
