@@ -1,3 +1,13 @@
+# Agenda
+
+* 10:05 - Code Challenge!
+* 10:20 - Git & GitHub
+* 10:50 - Pom
+* 10:55 - Local Storage
+* 11:55 - Reflection with EM
+
+---
+
 # Code Challenge!
 
 ---
@@ -26,5 +36,6 @@ We will provide a list of challenge prompts for you, but can also come up with y
 
 * How did you go about solving this problem?
 * Where did you start?
+* Was there anything you needed to look up? What search terms did you use?
 * What was was the most difficult part?
 
